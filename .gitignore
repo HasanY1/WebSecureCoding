@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+*.sln.ide
+*.log
+# Ignore Visual Studio temporary files, build results, and
+# build directories.
+.vs/
+*.vsidx
